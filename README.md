@@ -220,7 +220,7 @@ Based on the analysis, several opportunities emerge:
 ## Data Source & Methodology
 
 - **Source**: [aptekonline.az/pharmacies](https://aptekonline.az/pharmacies)
-- **Scraping Date**: December 2024
+- **Scraping Date**: December 2025
 - **Method**: Python web scraping (requests + BeautifulSoup)
 - **Data Points**: 22 attributes per pharmacy including coordinates, services, and partnerships
 
